@@ -9,7 +9,7 @@ ytilities
    :target: https://travis-ci.org/2legit/ytilities
    :alt: Latest Travis CI build status
 
-Yang's u helpful utilities lib
+Yang's helpful utilities lib
 
 Usage
 -----
